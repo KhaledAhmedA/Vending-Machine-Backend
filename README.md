@@ -87,6 +87,8 @@ POST	/auth/login	Login and get token
 Method	Endpoint	Description
 GET	/account/me	Get current user profile
 PUT	/account/me	Update username, password, or role
+DELETE	/account/me	Delete user account
+
 
 🪙 Buyer
 Method	Endpoint	Description
