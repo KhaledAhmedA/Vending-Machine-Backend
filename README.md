@@ -4,6 +4,15 @@ A RESTful API for a vending machine built with **Node.js**, **Express**, **TypeS
 
 ---
 
+## See Videos
+You Can Check it out by watching videos via these links
+
+Part 1:
+https://www.linkedin.com/feed/update/urn:li:activity:7348689386026237952/
+
+Part 2:
+https://www.linkedin.com/feed/update/urn:li:activity:7348688259406782464/
+
 ## 🚀 Features
 
 - 🔐 JWT-based Authentication
